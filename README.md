@@ -60,7 +60,7 @@ differently from the component it replaces, file an issue in
 
 We aren't accepting pull requests.
 
-For the full story, read the blog introducing Chainguard Project Theseus and
+For the full story, read [Introducing Chainguard Project Theseus](https://www.chainguard.dev/unchained/introducing-project-theseus-starting-with-challoc) and
 [Rebuild the planet](https://www.chainguard.dev/unchained/rebuild-the-planet).
 
 ## Trademarks

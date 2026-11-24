@@ -51,6 +51,7 @@ designs keep their own names.
 - **[challoc](https://github.com/chainguard-project-theseus/challoc)**: a
   memory allocator written in Rust, built to replace glibc malloc,
   jemalloc, tcmalloc and mimalloc. Status: experimental.
+- **[Thwart](https://github.com/chainguard-project-theseus/thwart)**: a server-side template engine for Spring web apps, built to replace runtime template engines like Thymeleaf, JSP and FreeMarker. It compiles templates to Java at build time, so template injection can't happen. Not a drop-in component: use the included Claude Code plugin for migration. Status: experimental.
 
 ## Get involved
 
